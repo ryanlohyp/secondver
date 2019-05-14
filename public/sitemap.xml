@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/cont/pages/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/basics/</loc>
+  </url>
+  
+  <url>
+    <loc>/cont/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cont/archetypes/</loc>
+  </url>
+  
+  <url>
+    <loc>/basics/requirements/</loc>
+  </url>
+  
+  <url>
+    <loc>/cont/markdown/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/basics/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/</loc>
+  </url>
+  
+  <url>
+    <loc>/basics/configuration/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cont/menushortcuts/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/basics/style-customization/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cont/icons/</loc>
+  </url>
+  
+  <url>
+    <loc>/cont/i18n/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/cont/tags/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/documentation/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tutorial/</loc>
+    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/attachments/</loc>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/button/</loc>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/children/</loc>
+  </url>
+  
+  <url>
+    <loc>/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/expand/</loc>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/mermaid/</loc>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/notice/</loc>
+  </url>
+  
+  <url>
+    <loc>/showcase/</loc>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/siteparam/</loc>
+  </url>
+  
+  <url>
+    <loc>/shortcodes/children/children-1/</loc>
+  </url>
+  
+</urlset>
