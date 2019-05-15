@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shortcodes on Documentation for Hugo Learn Theme</title>
+    <title>Shortcodes on SOP</title>
     <link>/shortcodes/</link>
-    <description>Recent content in Shortcodes on Documentation for Hugo Learn Theme</description>
+    <description>Recent content in Shortcodes on SOP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
@@ -55,7 +55,7 @@ Get Grav with icon right</description>
       <description>Mermaid is a library helping you to generate diagram and flowcharts from text, in a similar manner as Markdown.
 Just insert your mermaid code in the mermaid shortcode and that&amp;rsquo;s it.
 Flowchart example {{&amp;lt;mermaid align=&amp;quot;left&amp;quot;&amp;gt;}} graph LR; A[Hard edge] --&amp;gt;|Link text| B(Round edge) B --&amp;gt; C{Decision} C --&amp;gt;|One| D[Result one] C --&amp;gt;|Two| E[Result two] {{&amp;lt; /mermaid &amp;gt;}}  renders as
-graph LR; A[Hard edge] --|Link text| B(Round edge) B -- C{Decision} C --|One| D[Result one] C --|Two| E[Result two]  or you can use this alternative syntax:</description>
+graph LR;A[Hard edge] --|Link text| B(Round edge)B -- C{Decision}C --|One| D[Result one]C --|Two| E[Result two] or you can use this alternative syntax:</description>
     </item>
     
     <item>

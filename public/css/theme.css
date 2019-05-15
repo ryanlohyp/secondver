@@ -198,7 +198,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
   bottom: 0;
   left: 0;
   font-weight:400 !important;
-  font-family: KPMG, Helvatica, sans-serif !important;
+  font-family: "KPMG Light", Helvatica, sans-serif !important;
 }
 
 #sidebar a {
@@ -213,11 +213,9 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 #sidebar hr {
     border-bottom: 1px solid #2a232f;
 }
-
 #sidebar a.padding {
     padding: 0 1rem;
 }
-
 #sidebar h5 {
     margin: 2rem 0 0;
     position: relative;
@@ -262,7 +260,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     margin: 0;
 }
 #sidebar ul.searched a {
-    color: #999999;
+    color: rgba(0, 0, 0, 0.8);
 }
 #sidebar ul.searched .search-match a {
     color: #e6e6e6;
@@ -271,7 +269,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     color: white;
 }
 #sidebar ul.topics {
-    margin-left: 1em;
+    margin-left: 0;
 }
 #sidebar ul.topics.searched ul {
     display: block;
@@ -288,11 +286,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 }
 #sidebar ul.topics > li > a {
     line-height: 2rem;
-    font-size: 1.1rem;
-}
-#sidebar ul.topics > li > a b {
-    opacity: 0.5;
-    font-weight: normal;
+    font-size: 2rem;
 }
 #sidebar ul.topics > li > a .fa {
     margin-top: 9px;
@@ -302,16 +296,16 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     margin-left: -1rem;
     margin-right: 0px;
     padding-left: 1rem;
-    padding-right: 1rem;
+    padding-right: 0px;
 }
 #sidebar ul li.active > a {
     background: #ffffff;
     color: #00338D !important;
     font-weight: bold;
-    margin-left: -1rem;
-    margin-right: -1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    margin-left: 1.5rem;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 #sidebar ul li {
     padding: 0;
@@ -331,14 +325,22 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
 }
 #sidebar ul li > a {
     padding: 4px 0;
+    margin-left: 1.5rem;
 }
 #sidebar ul li.visited > a .read-icon {
     color: #9c6fb6;
     display: inline;
 }
 #sidebar ul li li {
-    padding-left: 1rem;
-    text-indent: 0.2rem;
+    padding-left: 0px;
+}
+#sidebar ul li ul li > a {
+    padding: 4px 0;
+    margin-left: 3rem !important;
+}
+#sidebar ul li ul li ul li> a {
+    padding: 4px 0;
+    margin-left: 4.5rem !important;
 }
 #main {
     background: #f7f7f7;
@@ -443,7 +445,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     align-items: center;
     justify-content: center;
     height: 100%;
-    padding: 2rem 0;
+    padding: 3rem 0;
 }
 #chapter #body-inner {
     padding-bottom: 3rem;
@@ -1026,6 +1028,7 @@ td {
     display: block;
 }
 #body #breadcrumbs {
+    font-size: 0.8
     height: auto;
     margin-bottom: 0;
     padding-left: 0;
@@ -1033,7 +1036,7 @@ td {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-    width: 70%;
+    width: 100%;
     display: inline-block;
     float: left;
 }
