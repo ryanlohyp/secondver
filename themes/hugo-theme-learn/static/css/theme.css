@@ -198,7 +198,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
   bottom: 0;
   left: 0;
   font-weight:400 !important;
-  font-family: "KPMG Light", Helvatica, sans-serif !important;
+  font-family: "KPMG Light";
 }
 
 #sidebar a {
@@ -452,7 +452,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     max-width: 80%;
 }
 #chapter h3 {
-    font-family: 'Univers for KPMG', "Helvetica", sans-serif;
+    font-family: 'Univers for KPMG';
     font-weight: 300;
     text-align: center;
 }
@@ -473,7 +473,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     margin: 0;
 }
 body {
-    font-family: "Univers for KPMG" , "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-family: "Univers for KPMG";
     font-weight: 300;
     line-height: 1.5;
     font-size: 16px !important;
@@ -482,14 +482,14 @@ body {
 }
 
 h2, h3, h4, h5, h6 {
-    font-family: "KPMG Light", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-family: "KPMG Light";
     text-rendering: optimizeLegibility;
     color: #005EB8 !important;
     font-weight: 400 !important;
     letter-spacing: 1px;
 }
 h1 {
-    font-family: "KPMG Light", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-family: "KPMG Light";
     text-align: center;
     text-transform: uppercase;
     color: #005EB8 !important;
