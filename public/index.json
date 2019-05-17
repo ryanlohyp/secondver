@@ -11,7 +11,7 @@
 	"title": "KPMG Clara",
 	"tags": [],
 	"description": "",
-	"content": " KPMG Clara Standard of Procedures  Home     Flowchart \n   Project Management \n  Project Timeline     Project Setup \n  \n Data Collection \n  Provided by Client     Local Workspace \n   Troubleshooting \n  \n Data Sanitisation \n  Chart of Accounts     General Ledger Account Balances \n   Journal Entry Transactions \n   Troubleshooting \n  \n Data Management \n  Data Import     Account Mapping \n   Data Processing \n   Troubleshooting \n  \n Account Analysis \n  Account Matrix     Financial Statement View \n   Troubleshooting \n  \n Journal Entry Analysis \n  Pre-Defined JE Reports     JE Documents \n   Troubleshooting \n  \n Appendix \n  Data File Structure     KPMG Clara CAATs Document \n  \n\n"
+	"content": " KPMG Clara Standard of Procedures  Home     Flowchart \n   Project Management \n  Project Timeline     Project Setup \n  \n Data Collection \n  Data Source     Troubleshooting \n  \n Data Sanitisation \n  Chart of Accounts     General Ledger Account Balances \n   Journal Entry Transactions \n   Troubleshooting \n  \n Data Management \n  Data Import     Account Mapping \n   Data Processing \n   Troubleshooting \n  \n Account Analysis \n  Account Matrix     Financial Statement View \n   Troubleshooting \n  \n Journal Entry Analysis \n  Pre-Defined JE Reports     JE Documents \n   Troubleshooting \n  \n Appendix \n  Data File Structure     KPMG Clara CAATs Document \n  \n\n"
 },
 {
 	"uri": "/2.-flowchart/",
@@ -81,24 +81,17 @@
 	"title": "Project Setup",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " 1. Email Notification Assignment of personnel to KPMG Clara deployment projects is notified via e-mails. Refresh your engagement list in eAudiT and search for the latest engagement. 2. Shared Folder Set Up Ensure your engagement project is set up in KPMG shared folder. 3. Data Provided by Client Source documents are provided by client, and they are usually stored in a folder named \u0026ldquo;PBC\u0026rdquo;.\nThe mandatory information required to proceed KPMG Clara deployment projects are listed below:\n Chart of accounts Trial balance Journal entry listing Journal entry high risk criteria  Navigate into the \u0026ldquo;PBC\u0026rdquo; folder and perform completeness checking on the data source. Further steps are detailed in the next section. "
 },
 {
-	"uri": "/4.-data-collection/1.-provided-by-client/",
-	"title": "Provided by Client",
+	"uri": "/4.-data-collection/1.-data-source/",
+	"title": "Data Source",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " 1. Duplicate Data to Local Workspace Assign a copy of data source to your local storage. The purpose is to avoid unnecessary changes in the original data. 2. Rename Local Work Folder Extend your local working folder name to include the label \u0026ldquo;-local\u0026rdquo;. 3. Data Arrangement Group data according to document types. Create new folders to store data separately if needed.\nThe common practice is to store general ledgers and trial balances into respective folders. "
 },
 {
-	"uri": "/4.-data-collection/2.-local-workplace/",
-	"title": "Local Workspace",
-	"tags": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "/4.-data-collection/3.-troubleshooting/",
+	"uri": "/4.-data-collection/2.-troubleshooting/",
 	"title": "Troubleshooting",
 	"tags": [],
 	"description": "",
