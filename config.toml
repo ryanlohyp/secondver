@@ -8,7 +8,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  description = "Clara SOP"
+  description = "SOP"
   author = "Mathieu Cornic"
   showVisitedLinks = false
   disableBreadcrumb = false
@@ -19,9 +19,3 @@ defaultContentLanguageInSubdir= true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
-
-[Languages]
-[Languages.en]
-title = "SOP"
-weight = 1
-languageName = "English"

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Account Analysis on KPMG Clara</title>
+    <link>/7.-account-analysis/</link>
+    <description>Recent content in Account Analysis on KPMG Clara</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/7.-account-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

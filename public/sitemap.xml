@@ -3,98 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/cont/pages/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/1.-home/</loc>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/basics/</loc>
+    <loc>/2.-flowchart/</loc>
   </url>
   
   <url>
-    <loc>/cont/</loc>
-    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
+    <loc>/3.-project-management/</loc>
   </url>
   
   <url>
-    <loc>/cont/archetypes/</loc>
+    <loc>/4.-data-collection/</loc>
   </url>
   
   <url>
-    <loc>/basics/requirements/</loc>
+    <loc>/5.-data-sanitisation/</loc>
   </url>
   
   <url>
-    <loc>/cont/markdown/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/6.-data-management/</loc>
   </url>
   
   <url>
-    <loc>/basics/installation/</loc>
+    <loc>/7.-account-analysis/</loc>
   </url>
   
   <url>
-    <loc>/shortcodes/</loc>
+    <loc>/8.-journal-entries-analysis/</loc>
   </url>
   
   <url>
-    <loc>/basics/configuration/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/9.-appendix/</loc>
   </url>
   
   <url>
-    <loc>/cont/menushortcuts/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/basics/style-customization/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cont/icons/</loc>
-  </url>
-  
-  <url>
-    <loc>/cont/i18n/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/cont/tags/</loc>
-    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/documentation/</loc>
-    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2018-11-29T08:41:44+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/attachments/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/button/</loc>
+    <loc>/9.-appendix/kpmg-clara-caats/</loc>
   </url>
   
   <url>
@@ -103,39 +52,8 @@
   </url>
   
   <url>
-    <loc>/shortcodes/children/</loc>
-  </url>
-  
-  <url>
-    <loc>/credits/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/expand/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/mermaid/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/notice/</loc>
-  </url>
-  
-  <url>
-    <loc>/showcase/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/siteparam/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/children/children-1/</loc>
-  </url>
-  
-  <url>
-    <loc>/shortcodes/children/children-4/</loc>
+    <loc>/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
