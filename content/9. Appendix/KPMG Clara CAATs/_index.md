@@ -1,12 +1,12 @@
 ---
 title: KPMG Clara CAATs Document
 description: CAATs documentation
-weight: 50
+weight: 92
 ---
 ### Purpose
 KPMG Clara Computer Assisted Audit Techniques (CAATs) Document is designed to assist the engagement team with documenting the procedures performed on data used in KPMG Clara'	s Advanced Capabilities.
 
-### Download
+### Document
 
 {{% attachments	title="Download files" style="grey"  /%}}
 

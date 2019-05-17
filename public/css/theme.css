@@ -279,14 +279,14 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     display: block;
 }
 #sidebar ul.topics > li > a {
-    line-height: 2.5rem;
+    line-height: 3rem;
     font-family: 'KPMG Light';
     font-size: 1.8rem;
     color: #00338D;
     letter-spacing: 1px;
 }
 #sidebar ul.topics > li.active > a {
-    line-height: 2.5rem;
+    line-height: 3rem;
     font-family: 'KPMG Light';
     font-size: 1.8rem;
     color: #00338D;

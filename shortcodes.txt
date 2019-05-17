@@ -1,0 +1,18 @@
+image: ![]()
+insert link with text: []()
+table: |--|--|
+header row: |:--|:--|:--|
+bold: **
+italic: _ _
+children list: {{%children description="true"   %}}
+expand: {{%expand "Is this learn theme rocks ?" %}}Yes !.{{% /expand%}}
+attachment: {{%attachments title="Related files" pattern=".*(pdf|mp4)"/%}}
+blockquotes: > **Fusion Drive** combines a hard drive with a flash storage (solid-state drive) and presents it as a single logical volume with the space of both drives combined.
+add title: [Upstage](https://github.com/upstage/ "Visit Upstage!")
+named anchor: 
+# Table of Contents
+  * [Chapter 1](#chapter-1)
+  * [Chapter 2](#chapter-2)
+  * [Chapter 3](#chapter-3)
+![A Chapter](/basics/installation/images/chapter.png?classes=shadow)
+width=40pc&classes=shadow

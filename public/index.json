@@ -11,7 +11,7 @@
 	"title": "KPMG Clara",
 	"tags": [],
 	"description": "",
-	"content": " KPMG Clara Standard of Procedure Welcome to the Guide of KPMG Clara Data Workflow.\n"
+	"content": " KPMG Clara Standard of Procedures  Home     Flowchart \n   Project Management \n  Project Timeline     Project Setup \n  \n Data Collection \n  Provided by Client     Local Workspace \n   Troubleshooting \n  \n Data Sanitisation \n  Chart of Accounts     General Ledger Account Balances \n   Journal Entry Transactions \n   Troubleshooting \n  \n Data Management \n  Data Import     Account Mapping \n   Data Processing \n   Troubleshooting \n  \n Account Analysis \n  Account Matrix     Financial Statement View \n   Troubleshooting \n  \n Journal Entry Analysis \n  Pre-Defined JE Reports     JE Documents \n   Troubleshooting \n  \n Appendix \n  Data File Structure     KPMG Clara CAATs Document \n  \n\n"
 },
 {
 	"uri": "/2.-flowchart/",
@@ -60,7 +60,7 @@
 	"title": "Journal Entry Analysis",
 	"tags": [],
 	"description": "",
-	"content": " KPMG Clara Journal Entry Analysis Pre-defined general ledger (GL) statistics over all imported journal entries with enhanced journal entry (JE) drill down functionality.\n"
+	"content": " KPMG Clara Journal Entry Analysis Pre-defined general ledger statistics over journal entries with enhanced drill down functionality.\n"
 },
 {
 	"uri": "/9.-appendix/",
@@ -70,11 +70,151 @@
 	"content": " KPMG Clara Appendix Reference guide to better data management and reporting system.\n"
 },
 {
+	"uri": "/3.-project-management/1.-project-timeline/",
+	"title": "Project Timeline",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/3.-project-management/2.-project-setup/",
+	"title": "Project Setup",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/4.-data-collection/1.-provided-by-client/",
+	"title": "Provided by Client",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/4.-data-collection/2.-local-workplace/",
+	"title": "Local Workspace",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/4.-data-collection/3.-troubleshooting/",
+	"title": "Troubleshooting",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/5.-data-sanitisation/1.-chart-of-accounts/",
+	"title": "Chart of Accounts",
+	"tags": [],
+	"description": "GLA",
+	"content": ""
+},
+{
+	"uri": "/5.-data-sanitisation/2.-general-ledger-account-balances/",
+	"title": "General Ledger Account Balances",
+	"tags": [],
+	"description": "GLAB",
+	"content": ""
+},
+{
+	"uri": "/5.-data-sanitisation/3.-journal-entry-transactions/",
+	"title": "Journal Entry Transactions",
+	"tags": [],
+	"description": "JET",
+	"content": ""
+},
+{
+	"uri": "/5.-data-sanitisation/4.-troubleshooting/",
+	"title": "Troubleshooting",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/6.-data-management/1.-data-import/",
+	"title": "Data Import",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/6.-data-management/2.-account-mapping/",
+	"title": "Account Mapping",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/6.-data-management/3.-processing/",
+	"title": "Data Processing",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/6.-data-management/4.-troubleshooting/",
+	"title": "Troubleshooting",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/7.-account-analysis/1.-account-matrix/",
+	"title": "Account Matrix",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/7.-account-analysis/2.-financial-statement-view/",
+	"title": "Financial Statement View",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/7.-account-analysis/3.-troubleshooting/",
+	"title": "Troubleshooting",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/8.-journal-entries-analysis/1.-pre-defined-je-reports/",
+	"title": "Pre-Defined JE Reports",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/8.-journal-entries-analysis/2.-jea-documents/",
+	"title": "JE Documents",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/8.-journal-entries-analysis/3.-troubleshooting/",
+	"title": "Troubleshooting",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/9.-appendix/data-files-structure/",
+	"title": "Data File Structure",
+	"tags": [],
+	"description": "",
+	"content": " Structure Management The required fields are necessary for successful Data Import. When the column headers in the source file are renamed to the database name listed in the table below auto mapping of the headers will occur. This minimizes the time spent on performing column mapping in the �Transform� screen in Data Management. Please note that although the L1 data structure is able to import fields that have higher length limits than listed below, data processing will fail.\nChart of Accounts (GLA) file General Ledger Account Balances (GLAB) file Journal Entry Transactions (JET) file "
+},
+{
 	"uri": "/9.-appendix/kpmg-clara-caats/",
 	"title": "KPMG Clara CAATs Document",
 	"tags": [],
 	"description": "CAATs documentation",
-	"content": " Purpose KPMG Clara Computer Assisted Audit Techniques (CAATs) Document is designed to assist the engagement team with documenting the procedures performed on data used in KPMG Clara\u0026rsquo; s Advanced Capabilities.\nDownload   Download files   KPMG Clara Computer Assisted Audit Techniques.docx  (24 ko)   KPMG Clara Computer Assisted Audit Techniques.pdf  (45 ko)    "
+	"content": " Purpose KPMG Clara Computer Assisted Audit Techniques (CAATs) Document is designed to assist the engagement team with documenting the procedures performed on data used in KPMG Clara\u0026rsquo; s Advanced Capabilities.\nDocument   Download files   KPMG Clara Computer Assisted Audit Techniques.docx  (24 ko)   KPMG Clara Computer Assisted Audit Techniques.pdf  (45 ko)    "
 },
 {
 	"uri": "/categories/",

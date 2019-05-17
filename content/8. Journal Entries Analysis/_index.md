@@ -9,4 +9,4 @@ weight: 8
 
 # Journal Entry Analysis
 
-Pre-defined general ledger (GL) statistics over all imported journal entries with enhanced journal entry (JE) drill down functionality.
+Pre-defined general ledger statistics over journal entries with enhanced drill down functionality.

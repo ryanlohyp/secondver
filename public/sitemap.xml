@@ -43,6 +43,86 @@
   </url>
   
   <url>
+    <loc>/3.-project-management/1.-project-timeline/</loc>
+  </url>
+  
+  <url>
+    <loc>/3.-project-management/2.-project-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>/4.-data-collection/1.-provided-by-client/</loc>
+  </url>
+  
+  <url>
+    <loc>/4.-data-collection/2.-local-workplace/</loc>
+  </url>
+  
+  <url>
+    <loc>/4.-data-collection/3.-troubleshooting/</loc>
+  </url>
+  
+  <url>
+    <loc>/5.-data-sanitisation/1.-chart-of-accounts/</loc>
+  </url>
+  
+  <url>
+    <loc>/5.-data-sanitisation/2.-general-ledger-account-balances/</loc>
+  </url>
+  
+  <url>
+    <loc>/5.-data-sanitisation/3.-journal-entry-transactions/</loc>
+  </url>
+  
+  <url>
+    <loc>/5.-data-sanitisation/4.-troubleshooting/</loc>
+  </url>
+  
+  <url>
+    <loc>/6.-data-management/1.-data-import/</loc>
+  </url>
+  
+  <url>
+    <loc>/6.-data-management/2.-account-mapping/</loc>
+  </url>
+  
+  <url>
+    <loc>/6.-data-management/3.-processing/</loc>
+  </url>
+  
+  <url>
+    <loc>/6.-data-management/4.-troubleshooting/</loc>
+  </url>
+  
+  <url>
+    <loc>/7.-account-analysis/1.-account-matrix/</loc>
+  </url>
+  
+  <url>
+    <loc>/7.-account-analysis/2.-financial-statement-view/</loc>
+  </url>
+  
+  <url>
+    <loc>/7.-account-analysis/3.-troubleshooting/</loc>
+  </url>
+  
+  <url>
+    <loc>/8.-journal-entries-analysis/1.-pre-defined-je-reports/</loc>
+  </url>
+  
+  <url>
+    <loc>/8.-journal-entries-analysis/2.-jea-documents/</loc>
+  </url>
+  
+  <url>
+    <loc>/8.-journal-entries-analysis/3.-troubleshooting/</loc>
+  </url>
+  
+  <url>
+    <loc>/9.-appendix/data-files-structure/</loc>
+  </url>
+  
+  <url>
     <loc>/9.-appendix/kpmg-clara-caats/</loc>
   </url>
   
